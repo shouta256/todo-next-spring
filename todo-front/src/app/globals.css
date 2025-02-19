@@ -1,0 +1,6 @@
+/* globals.css */
+@import 'tailwindcss';
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
